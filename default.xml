@@ -561,5 +561,6 @@
   <project path="device/samsung/klte" name="android_device_samsung_klte" remote="TH" revision="cm-13.0" />
   <project path="device/samsung/msm8974-common" name="android_device_samsung_msm8974-common" remote="TH" revision="cm-13.0" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="TH" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
   <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" />
 </manifest>
