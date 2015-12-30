@@ -555,6 +555,7 @@
 <!-- END AOSP -->
 
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="AD" revision="cm-13.0" />
+  <project path="device/samsung/kltesprsports" name="android_device_samsung_kltesprsports" remote="AD" revision="cm-13.0" />
   <project path="device/samsung/kltespr" name="android_device_samsung_kltespr" remote="AD" revision="cm-13.0" />
   <project path="device/samsung/klte-common" name="android_device_samsung_klte-common" remote="AD" revision="cm-13.0" />
   <project path="kernel/samsung/klte" name="android_kernel_samsung_klte" remote="AD" revision="cm-13.0" />
